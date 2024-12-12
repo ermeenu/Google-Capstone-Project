@@ -1,7 +1,9 @@
 # Google-Capstone-Project
 Cyclistic 2023 Data Analysis
 https://colab.research.google.com/gist/ermeenu/0da2f0a980381d306bea237772a47e0d/cyclist_2023.ipynb
+
 A Detail-Oriented Analysis of Cyclistic: A Chicago Bike-Sharing Company
+
 Cyclistic, a Chicago-based bike-sharing program, operates over 5,800 bicycles and 692 docking stations across the city, catering to diverse rider needs through traditional bikes, hand tricycles, and cargo bikes. The program offers three pricing plans: single-ride passes, full-day passes, and annual memberships. Financial analysis indicates yearly members are significantly more profitable than casual riders, prompting Cyclistic to explore strategies to convert casual riders into yearly members.
 
 
